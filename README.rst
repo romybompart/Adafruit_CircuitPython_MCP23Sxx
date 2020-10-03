@@ -17,7 +17,7 @@ This is easily achieved by downloading
 Installing from PyPI
 ====================
 
-It is not available yet, since I just created this independetly from the MCP230xx library from adafruit. 
+It is not available yet, since I just created this independently from the MCP230xx library from adafruit. 
 I hope they can upload this to pypi.
 
 Download to your project
