@@ -1,7 +1,7 @@
 Introduction
 ============
 
-CircuitPython module for the MCP23S17 SPI I/O extenders.
+My own contribution for the CircuitPython module for the MCP23S17 SPI I/O extenders.
 
 Dependencies
 =============
